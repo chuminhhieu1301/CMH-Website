@@ -1,3 +1,20 @@
 <html>
   <head>
-  <title> CMH's Website </title>
+    <title> CMH's Website </title>
+    <style>
+      body {
+        background-color: black;
+        text-align: center;
+        padding: 900px
+      }
+      h1 {
+        font-size: 100px;
+        color: white;
+        color: #eeee33;
+        }
+    </style>
+  </head>
+  <body>
+    <h1> Chu Minh Hieu </h1>
+  </body>
+</html>
